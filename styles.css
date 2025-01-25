@@ -1,0 +1,85 @@
+
+body{
+    background-image: linear-gradient(rgb(16, 253, 16), rgb(66, 243, 66),rgb(255, 253, 253));
+    
+}
+#main{
+    font-size: 90px;
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    
+}
+div{
+    margin-bottom: 170px;
+    margin-top: 50px;
+}
+#subtitle{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px;
+
+}
+
+#B1{
+    border: 2px solid black;
+    width: 180px;
+    height: 180px;
+    border-radius: 25px; 
+    margin-left: 20px; 
+    background-image: url(./ludo_image.webp); 
+    background-size:contain;
+    margin-right: 15px;
+}
+#B2{
+    border: 2px solid black;
+    width: 180px;
+    height: 180px;
+    border-radius: 25px;
+    margin: 15px;
+    background-image: url(carromm1.jpg);
+    background-size: contain;
+}
+#B3{
+    border: 2px solid black;
+    width: 180px;
+    height: 180px;
+    border-radius: 25px;
+    margin: 15px;
+    background-image: url(Chess.jpg);
+    background-size: 190px;
+    
+}
+#B4{
+    border: 2px solid black;
+    width: 180px;
+    height: 180px;
+    border-radius: 25px;
+    margin: 15px;
+    background-image: url(sudoku1.jpg);
+    background-size: contain;
+}
+#B5{
+    border: 2px solid black;
+    width: 180px;
+    height: 180px;
+    border-radius: 25px;
+    margin: 15px;
+    background-image: url(tic.png);
+    background-size: contain;
+}
+#B6{
+    border: 2px solid black;
+    width: 180px;
+    height: 180px;
+    border-radius: 25px;
+    margin: 15px;
+    background-image: url(snake.webp);
+    background-size: contain;
+}

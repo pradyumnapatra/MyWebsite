@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".welcome_screen"
+    android:background="@drawable/welcome_screen">
+
+    <TextView
+        android:id="@+id/inputName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="370dp"
+        android:textStyle="bold"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:textAlignment="center"
+        android:textColor="@color/black" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
